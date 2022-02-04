@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**BuseHizarci/BuseHizarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Its Buse
+#### Front-end Developer - Social mind - 
+![Front-end Developer](https://www.busehizarci.com/images/Profile.jpg)
 
-Here are some ideas to get you started:
+I am a self-taught front end developer based in London, with experience developing web-sites and web apps using.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
