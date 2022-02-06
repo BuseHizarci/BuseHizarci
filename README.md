@@ -2,9 +2,9 @@
 #### Front-end Developer
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/2168255626/1585349103/600x200)
 
-I am a self-taught front end developer based in London, with experience developing web-sites and web apps using
+I am a self-taught front end developer based in London, with experience developing web-sites and web apps using .. 
 
-Skills: / REACT / JS / HTML / CSS
+ ----    Skills: / REACT JS / JS / HTML / CSS. ----
 
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me: https://www.linkedin.com/in/buse-hizarci-258342111/ 
