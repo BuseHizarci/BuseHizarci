@@ -19,5 +19,6 @@ I'm a Front-ed Web Developer 💻     --  love taking a Photograph  📸  --  tr
  ### 📝 Latest Blog Posts
 </br>
   [If you are new to Software Development...](https://medium.com/@bhzrc/if-you-are-new-to-software-development-ca6421a51da6)
+  </br>
   [Learning with Online Courses!](https://medium.com/@bhzrc/learning-with-online-courses-656eb826529a)
 
