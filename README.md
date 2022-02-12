@@ -1,6 +1,6 @@
 ### Hi there 👋, Its Buse
 #### Front-end Developer
-![Front-end Developer](https://medium.com/@bhzrc?source=user_profile----------------------------------------)
+![Front-end Developer](https://miro.medium.com/max/700/1*X6FvpF8o1MTuIFHPb-d1gA.gif)
 
 I am a self-taught front end developer based in London, with experience developing web-sites and web apps using .. 
 
