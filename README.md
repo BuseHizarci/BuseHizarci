@@ -6,7 +6,7 @@
 
 
 <h2 align="center">
-I'm a Front-ed Web Developer 💻     --  love taking a Photograph  📸  --  Travel  :world_map:!
+I'm a Front-end Web Developer 💻     --  love taking a photograph  📸  --  travel  :world_map:!
 </h2> 
 
 ### 🤝 Connect with me:
